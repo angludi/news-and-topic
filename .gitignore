@@ -15,3 +15,4 @@
 # vendor/
 gin-bin
 .DS_Store
+config.yaml
